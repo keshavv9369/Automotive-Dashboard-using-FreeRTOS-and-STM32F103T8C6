@@ -1,0 +1,9 @@
+../Core/Src/display.c:14:6:print_mainmenu_speed	8	static
+../Core/Src/display.c:44:6:print_mainmenu_rpm	8	static
+../Core/Src/display.c:74:6:print_mainmenu_temp	8	static
+../Core/Src/display.c:104:6:print_mainmenu_throttle	8	static
+../Core/Src/display.c:134:6:Int_To_String	24	static
+../Core/Src/display.c:168:6:print_parameter_speed	16	static
+../Core/Src/display.c:185:6:print_parameter_rpm	16	static
+../Core/Src/display.c:202:6:print_parameter_temp	16	static
+../Core/Src/display.c:219:6:print_parameter_throttle	16	static

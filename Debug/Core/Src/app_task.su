@@ -1,0 +1,2 @@
+../Core/Src/app_task.c:17:6:vDisplayTask	16	static
+../Core/Src/app_task.c:76:6:vOBDTask	48	static

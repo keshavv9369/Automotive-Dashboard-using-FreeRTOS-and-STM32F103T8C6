@@ -1,0 +1,3 @@
+../Core/Src/m3_cmsis_serial.c:4:6:serial_usart1_Init	1
+../Core/Src/m3_cmsis_serial.c:22:6:serial_usart1_char_print	3
+../Core/Src/m3_cmsis_serial.c:32:6:serial_usart1_var_print	8
